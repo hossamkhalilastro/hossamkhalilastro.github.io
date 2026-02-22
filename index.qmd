@@ -1,5 +1,5 @@
 ---
-title: "Hossam Khalil <br> <span style='font-size: 0.4em; font-weight: normal; color: #000000;'>Astrophysics PhD student at the University of Helsinki</span>"
+title: "<span style='display: block; font-family: Arial; color: #000000; line-height: 1; margin-bottom: 0.2em;'>Hossam Khalil</span> <span style='display: block; font-size: 0.35em; font-family: Arial; font-weight: normal; color: #000000;'>Astrophysics PhD student at the University of Helsinki</span>"
 pagetitle: "Hossam Khalil"
 image: "image4.jpg"
 page-navigation: false
@@ -14,12 +14,12 @@ about:
   image-width: 70%
   links:
       # ADS Library    
-    - text: "<img src='ads.svg' alt='ADS' style='height: 1.5em; width: 1.5em; margin-top: -0.13em; vertical-align: middle; margin-right: 0.1em;'> ADS"
+    - text: "<img src='ads.svg' alt='ADS' style='height: 1.5em; width: 1.5em; margin-top: -0.13em; vertical-align: middle; margin-right: 0.1em;'> <span style='color: #000000;'>ADS</span>"
       href: https://ui.adsabs.harvard.edu/user/libraries/5VQ6rLtjQNC9cwyRpox-Lw
       target: _blank
 
       #ORCID
-    - text: "{{< ai orcid >}} ORCID"
+    - text: "<img src='orcid.svg' alt='ADS' style='height: 1.5em; width: 1.5em; margin-top: -0.13em; vertical-align: middle; margin-right: 0.1em;'> <span style='color: #000000;'>ADS</span>"
       href: https://orcid.org/0009-0005-0409-0562
       target: _blank
 
@@ -36,7 +36,7 @@ about:
       
       #Bluesky
     - icon: bluesky
-      text: Bluesky
+      text: "<span style='color: #000000;'>Bluesky</span>"
       href: https://bsky.app/profile/hossam.bsky.social
       target: _blank
       
@@ -72,7 +72,7 @@ about:
 
 :::{#hero-heading}
 
-[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.]{style="font-size: 30px;"} 
+[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.]{style="font-size: 27px;"} 
 
 
 <br><br>

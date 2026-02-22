@@ -1,3 +1,56 @@
 ---
 title: "Research"
 ---
+
+<style>
+  /* 1. Main Text Styling */
+  body {
+    font-family: "Arial"; /* Changes the main text font */
+    color: #000000;                /* A soft, readable dark gray/black */
+    font-size: 1.05em;             /* Slightly increases base text size */
+  }
+
+  h2 {
+    border-bottom: none !important; 
+    padding-bottom: 0 !important; /* Removes any extra gap left by the border */
+  }
+
+  /* 2. Figure Caption Styling */
+  figcaption {
+    font-family: "Arial", sans-serif; /* A clean font for captions */
+    color: #000000;                   /* A lighter gray to distinguish from main text */
+    font-size: 0.85em;                /* Makes the caption smaller than main text */
+    font-style: italic;               /* Adds an italic effect */
+    text-align: center;               /* Keeps the caption centered under the plot */
+    margin-top: 10px;                 /* Adds a little breathing room above the caption */
+  }
+</style>
+
+My research focus is observational X-ray astronomy of galaxy clusters. I use data from space-based X-ray missions combined with ground-based optical data to probe the hot intergalactic plasma that is making up more than 90% of all matter in our Universe. 
+
+---
+
+## How AGN feedback modifies the baryonic content of galaxy groups with eROSITA <span style="color: #325ad1; font-size:1em">(Khalil et al. in prep.)</span>
+In this project, we use a well-selected sample from the first public release of eROSITA-DE data from the western Galactic hemisphere ([eRASS1](https://erosita.mpe.mpg.de/dr1/)) identified with the optical 2MASS Redshift survey galaxy gorup catalogue ([2MRS](https://arxiv.org/abs/1806.04469)). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to $R_{\mathrm{200c}}$.
+<br>
+
+### Gas fraction at $R_{\rm 500c}$
+
+![](figs/fg_m500.jpg){#fg_m500 fig-align="center" width="100%"}
+<br>
+Our results rule out strong AGN feedback models as implemented in the FLAMINOG suite of hydrodynamical simulations.
+![](figs/fg_m500_flamingo.jpg){#fg_m500_flamingo fig-align="center" width="100%" height="30%"}
+<br>
+
+### Gas fraction at $R_{\rm 200c}$
+
+![](figs/fg_m200.jpg){#fg_m200 fig-align="center" width="100%"}
+
+### Suppression of the matter power spectrum
+We can use our resuls to infer the suppression of the matter power spectrum on the Universe implied by our $(f_{\rm gas}+f_{\star})-M$ relation, where we complemented our results with [Leauthaud et al. (2012)](https://arxiv.org/abs/1109.0010)'s stellar fractions.
+![](figs/mps.jpg){#mps fig-align="center" width="100%"}
+
+## AXES-2MRS [(Khalil et al. 2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.212K/abstract)
+In my master's thesis, we introduced AXES-2MRS, a new all-sky catalogue of galaxy groups detected in the ROSAT all-sky survey (RASS) and identified with 2MRS. We studied its dynamical and kinematic characteristics and constructed X-ray scaling relations for an XMM-Newton-selected subsample.
+![](figs/sky_axes.jpg){#sky_axes fig-align="center" width="100%"}
+
