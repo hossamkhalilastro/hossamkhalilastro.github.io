@@ -25,14 +25,21 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
+    "objectID": "publications.html#first-author",
+    "href": "publications.html#first-author",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "",
+    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
+  },
+  {
+    "objectID": "publications.html#contributing-author",
+    "href": "publications.html#contributing-author",
+    "title": "Publications",
+    "section": "Contributing author",
+    "text": "Contributing author\n\nEckert, D., Seppi, R., Khalil, H., et al. 2025. “The impact of strong feedback on galaxy group scaling relations”. arXiv e-prints, arXiv:2512.04203 [ADS] [arXiv]"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -86,30 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hossam Khalil",
+    "title": "Hossam Khalil  Astrophysics PhD student at the University of Helsinki",
     "section": "",
-    "text": "ADS\n  \n  \n      ORCID\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Instagram\n  \n\n  \n  \nI’m an astrophysics PhD student at the University of Helsinki and part of the GCG research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hossam Khalil",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hossam Khalil",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Hossam Khalil",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "ADS\n  \n  \n      ORCID\n  \n  \n    \n     Bluesky\n  \n\n  \n  \nI’m an astrophysics PhD student at the University of Helsinki and part of the GCG research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.\n Research Publications CV"
   },
   {
     "objectID": "teaching.html",
