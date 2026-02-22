@@ -70,12 +70,45 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Research – Hossam Khalil">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://hossamkhalilastro.github.io/figs/fg_m500.jpg">
 <meta property="og:site_name" content="Hossam Khalil">
 <meta name="twitter:title" content="Research – Hossam Khalil">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://hossamkhalilastro.github.io/figs/fg_m500.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -118,8 +151,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-in-prep." id="toc-how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-in-prep." class="nav-link active" data-scroll-target="#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-in-prep.">How AGN feedback modifies the baryonic content of galaxy groups with eROSITA <span style="color: #325ad1; font-size:1em">(Khalil et al.&nbsp;in prep.)</span></a>
+  <ul class="collapse">
+  <li><a href="#gas-fraction-at-r_rm-500c" id="toc-gas-fraction-at-r_rm-500c" class="nav-link" data-scroll-target="#gas-fraction-at-r_rm-500c">Gas fraction at <span class="math inline">\(R_{\rm 500c}\)</span></a></li>
+  <li><a href="#gas-fraction-at-r_rm-200c" id="toc-gas-fraction-at-r_rm-200c" class="nav-link" data-scroll-target="#gas-fraction-at-r_rm-200c">Gas fraction at <span class="math inline">\(R_{\rm 200c}\)</span></a></li>
+  <li><a href="#suppression-of-the-matter-power-spectrum" id="toc-suppression-of-the-matter-power-spectrum" class="nav-link" data-scroll-target="#suppression-of-the-matter-power-spectrum">Suppression of the matter power spectrum</a></li>
+  </ul></li>
+  <li><a href="#axes-2mrs-khalil-et-al.-2024" id="toc-axes-2mrs-khalil-et-al.-2024" class="nav-link" data-scroll-target="#axes-2mrs-khalil-et-al.-2024">AXES-2MRS (Khalil et al.&nbsp;2024)</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -143,8 +188,57 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<style>
+  /* 1. Main Text Styling */
+  body {
+    font-family: "Arial"; /* Changes the main text font */
+    color: #000000;                /* A soft, readable dark gray/black */
+    font-size: 1.05em;             /* Slightly increases base text size */
+  }
+
+  h2 {
+    border-bottom: none !important; 
+    padding-bottom: 0 !important; /* Removes any extra gap left by the border */
+  }
+
+  /* 2. Figure Caption Styling */
+  figcaption {
+    font-family: "Arial", sans-serif; /* A clean font for captions */
+    color: #000000;                   /* A lighter gray to distinguish from main text */
+    font-size: 0.85em;                /* Makes the caption smaller than main text */
+    font-style: italic;               /* Adds an italic effect */
+    text-align: center;               /* Keeps the caption centered under the plot */
+    margin-top: 10px;                 /* Adds a little breathing room above the caption */
+  }
+</style>
+<p>My research focus is observational X-ray astronomy of galaxy clusters. I use data from space-based X-ray missions combined with ground-based optical data to probe the hot intergalactic plasma that is making up more than 90% of all matter in our Universe.</p>
+<hr>
+<section id="how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-in-prep." class="level2">
+<h2 class="anchored" data-anchor-id="how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-in-prep.">How AGN feedback modifies the baryonic content of galaxy groups with eROSITA <span style="color: #325ad1; font-size:1em">(Khalil et al.&nbsp;in prep.)</span></h2>
+<p>In this project, we use a well-selected sample from the first public release of eROSITA-DE data from the western Galactic hemisphere (<a href="https://erosita.mpe.mpg.de/dr1/">eRASS1</a>) identified with the optical 2MASS Redshift survey galaxy gorup catalogue (<a href="https://arxiv.org/abs/1806.04469">2MRS</a>). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to <span class="math inline">\(R_{\mathrm{200c}}\)</span>. <br></p>
+<section id="gas-fraction-at-r_rm-500c" class="level3">
+<h3 class="anchored" data-anchor-id="gas-fraction-at-r_rm-500c">Gas fraction at <span class="math inline">\(R_{\rm 500c}\)</span></h3>
+<p><img src="figs/fg_m500.jpg" id="fg_m500" class="img-fluid quarto-figure quarto-figure-center anchored" style="width:100.0%"> <br> Our results rule out strong AGN feedback models as implemented in the FLAMINOG suite of hydrodynamical simulations. <img src="figs/fg_m500_flamingo.jpg" id="fg_m500_flamingo" class="quarto-figure quarto-figure-center anchored" style="width:100.0%;height:30.0%"> <br></p>
+</section>
+<section id="gas-fraction-at-r_rm-200c" class="level3">
+<h3 class="anchored" data-anchor-id="gas-fraction-at-r_rm-200c">Gas fraction at <span class="math inline">\(R_{\rm 200c}\)</span></h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="figs/fg_m200.jpg" id="fg_m200" class="img-fluid quarto-figure quarto-figure-center anchored figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="suppression-of-the-matter-power-spectrum" class="level3">
+<h3 class="anchored" data-anchor-id="suppression-of-the-matter-power-spectrum">Suppression of the matter power spectrum</h3>
+<p>We can use our resuls to infer the suppression of the matter power spectrum on the Universe implied by our <span class="math inline">\((f_{\rm gas}+f_{\star})-M\)</span> relation, where we complemented our results with <a href="https://arxiv.org/abs/1109.0010">Leauthaud et al.&nbsp;(2012)</a>’s stellar fractions. <img src="figs/mps.jpg" id="mps" class="img-fluid quarto-figure quarto-figure-center anchored" style="width:100.0%"></p>
+</section>
+</section>
+<section id="axes-2mrs-khalil-et-al.-2024" class="level2">
+<h2 class="anchored" data-anchor-id="axes-2mrs-khalil-et-al.-2024">AXES-2MRS <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.212K/abstract">(Khalil et al.&nbsp;2024)</a></h2>
+<p>In my master’s thesis, we introduced AXES-2MRS, a new all-sky catalogue of galaxy groups detected in the ROSAT all-sky survey (RASS) and identified with 2MRS. We studied its dynamical and kinematic characteristics and constructed X-ray scaling relations for an XMM-Newton-selected subsample. <img src="figs/sky_axes.jpg" id="sky_axes" class="img-fluid quarto-figure quarto-figure-center anchored" style="width:100.0%"></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
