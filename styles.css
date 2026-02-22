@@ -1,0 +1,41 @@
+/* css styles */
+
+/* Customize the homepage title (Your Name) */
+h1.title {
+  font-family: "Helvatica"; /* Changes the font */
+  font-size: 2.5rem !important;                 /* Changes the size */
+  font-weight: bold;                            /* Makes it bold */
+}
+
+
+/* Force the font size for both the link text and the icons */
+.about-links .about-link,
+.about-links .about-link i,
+.about-links .about-link svg {
+  font-size: 1.1rem !important; 
+  font-weight: bold;
+  font-color: rgb(0, 0, 0)
+}
+
+/* ORCID Official Green */
+.about-link .ai-orcid {
+  color: #A6CE39 !important;
+}
+
+/* ADS Library Blue */
+.about-link .ai-ads-square {
+  color: #0a6ad0 !important;
+}
+/* LinkedIn Official Blue */
+.about-link .bi-linkedin {
+  color: #0A66C2 !important;
+}
+/* Note: Instagram uses a gradient officially, but this solid hex code is their standard flat color */
+.about-link .bi-instagram {
+  color: #E1306C !important;
+}
+
+/* Email Icon (Using a classic Gmail-style Red) */
+.about-link .bi-envelope {
+  color: #000000 !important; /* Feel free to change this hex code to match your preference! */
+}
