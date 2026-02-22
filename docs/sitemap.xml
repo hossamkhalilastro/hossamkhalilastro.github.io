@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts.html</loc>
-    <lastmod>2026-02-21T22:06:52.346Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/projects.html</loc>
+    <lastmod>2026-02-22T01:45:56.499Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2026-02-21T22:06:52.349Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/contact.html</loc>
+    <lastmod>2026-02-22T01:45:56.449Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/projects.html</loc>
-    <lastmod>2026-02-21T22:06:52.349Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/posts.html</loc>
+    <lastmod>2026-02-22T01:45:56.494Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/index.html</loc>
-    <lastmod>2026-02-21T22:06:52.346Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/publications.html</loc>
+    <lastmod>2026-02-22T18:49:33.074Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/index.html</loc>
-    <lastmod>2026-02-21T22:06:52.349Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/posts/news-title/index.html</loc>
+    <lastmod>2026-02-22T01:45:56.494Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
-    <lastmod>2026-02-21T22:06:52.349Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/people.html</loc>
+    <lastmod>2026-02-22T01:45:56.494Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
-    <lastmod>2025-02-08T02:43:14.168Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2026-02-22T01:45:56.499Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/index.html</loc>
-    <lastmod>2026-02-21T22:06:52.346Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/posts/event-title/index.html</loc>
+    <lastmod>2026-02-22T01:45:56.494Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2026-02-22T00:50:25.017Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/index.html</loc>
+    <lastmod>2026-02-22T21:32:04.560Z</lastmod>
   </url>
   <url>
-    <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2026-02-21T22:06:52.344Z</lastmod>
+    <loc>https://hossamkhalilastro.github.io/teaching.html</loc>
+    <lastmod>2026-02-22T01:45:56.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hossamkhalilastro.github.io/research.html</loc>
+    <lastmod>2026-02-22T19:00:44.366Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hossamkhalilastro.github.io/Research.html</loc>
+    <lastmod>2026-02-22T19:08:55.160Z</lastmod>
   </url>
 </urlset>

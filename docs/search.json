@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "What’s New & Updated",
@@ -11,7 +25,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
   },
   {
     "objectID": "publications.html#selected-work",
@@ -19,13 +33,6 @@
     "title": "Publications",
     "section": "Selected Work",
     "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -42,6 +49,27 @@
     "text": "About the news"
   },
   {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/paper-title/index.html#abstract",
     "href": "posts/paper-title/index.html#abstract",
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
@@ -54,6 +82,34 @@
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hossam Khalil  Astrophysics PhD student at the University of Helsinki",
+    "section": "",
+    "text": "ADS\n  \n  \n      ORCID\n  \n  \n    \n     Bluesky\n  \n\n  \n  \nI’m an astrophysics PhD student at the University of Helsinki and part of the GCG research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.\n Research Publications CV"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hossam Khalil  Astrophysics PhD student at the University of Helsinki",
+    "section": "",
+    "text": "Researcher, Univerisity"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hossam Khalil  Astrophysics PhD student at the University of Helsinki",
+    "section": "",
+    "text": "PhD, Univerisity"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Hossam Khalil  Astrophysics PhD student at the University of Helsinki",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "teaching.html",
@@ -84,59 +140,17 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "publications.html#first-author",
+    "href": "publications.html#first-author",
+    "title": "Publications",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hossam Khalil",
-    "section": "",
-    "text": "ADS\n  \n  \n      ORCID\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Instagram\n  \n\n  \n  \nI’m an astrophysics PhD student at the University of Helsinki and part of the GCG research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Hossam Khalil",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Hossam Khalil",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Hossam Khalil",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "objectID": "publications.html#contributing-author",
+    "href": "publications.html#contributing-author",
+    "title": "Publications",
+    "section": "Contributing author",
+    "text": "Contributing author\n\nEckert, D., Seppi, R., Khalil, H., et al. 2025. “The impact of strong feedback on galaxy group scaling relations”. arXiv e-prints, arXiv:2512.04203 [ADS] [arXiv]"
   }
 ]

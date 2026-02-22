@@ -20,7 +20,7 @@ h1.title {
 /* ORCID Official Green */
 .about-link .ai-orcid {
   color: #A6CE39 !important;
-}
+} 
 
 /* ADS Library Blue */
 .about-link .ai-ads-square {
@@ -28,6 +28,10 @@ h1.title {
 }
 /* LinkedIn Official Blue */
 .about-link .bi-linkedin {
+  color: #0A66C2 !important;
+}
+/* Bluesky Blue */
+.about-link .bi-bluesky {
   color: #0A66C2 !important;
 }
 /* Note: Instagram uses a gradient officially, but this solid hex code is their standard flat color */
@@ -38,4 +42,75 @@ h1.title {
 /* Email Icon (Using a classic Gmail-style Red) */
 .about-link .bi-envelope {
   color: #000000 !important; /* Feel free to change this hex code to match your preference! */
+}
+
+
+/* Custom Button - Default State */
+.btn-custom {
+  background-color: transparent;      /* Makes the inside see-through */
+  color: #000000;                     /* Dark blue/gray text color */
+  border: 2px solid #2c3e50;          /* A clean, solid border */
+  border-radius: 30px;                /* Makes the edges highly rounded (pill shape) */
+  padding: 8px 24px;                  /* Adds breathing room inside the button */
+  font-weight: 600;                   /* Makes the text slightly bold */
+  margin: 5px;                        /* Adds a little space between multiple buttons */
+  transition: all 0.3s ease-in-out;   /* Makes the hover effect smooth */
+}
+
+/* Custom Button - Hover State (when the mouse is over it) */
+.btn-custom:hover {
+  background-color: #2c3e50;          /* Fills in the background */
+  color: #ffffff;                     /* Changes text to white */
+  border-color: #2c3e50;              /* Keeps the border matching */
+  transform: translateY(-2px);        /* Adds a subtle 'lift' effect */
+}
+
+
+/* Increase font size for publications list */
+.pub-text {
+  font-size: 1.25rem; /* Increase this number (e.g., 1.5rem) to make it even bigger */
+  line-height: 2;   /* Adds comfortable spacing between the lines */
+}
+
+/* Top Navigation Bar Link Styling */
+.navbar-nav .nav-link {
+  color: #ffffff !important;  /* Forces the text to be solid black */
+  font-size: 1.15rem;         /* Increases the text size */
+  font-weight: 500;           /* Makes the text slightly crisper/bolder */
+}
+
+/* Optional: Make the link change color slightly when you hover over it */
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;  /* Changes to a dark gray on hover */
+}
+
+/* Website Title Styling (Your Name in the top left) */
+.navbar-title {
+  color: #ffffff !important;  /* Change this hex code to whatever color you want */
+  font-size: 1.5rem !important; /* Increases the text size */
+  font-weight: 700;           /* Makes your name bold so it stands out */
+  letter-spacing: 0.5px;      /* Optional: Adds a tiny bit of space between letters */
+}
+
+/* Remove button/border styling from profile icon links */
+.about-links .about-link {
+    border: none !important;
+    background: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    padding: 0.25em 0.5em !important;
+}
+
+.about-links .about-link:hover {
+    background: none !important;
+    background-color: rgba(0, 0, 0, 0.05) !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Ensure icons display properly without button styling */
+.about-links .about-link img,
+.about-links .about-link svg {
+    display: inline-block;
+    vertical-align: middle;
 }
