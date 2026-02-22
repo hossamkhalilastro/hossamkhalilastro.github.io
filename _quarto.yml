@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+#desription-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+author-meta: "Hossam Khalil
 
 website:
   title: "Hossam Khalil"
