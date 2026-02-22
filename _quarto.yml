@@ -9,7 +9,7 @@ author-meta: "Hossam Khalil
 website:
   title: "Hossam Khalil"
   image: "image4.jpg"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  #description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
     background: light  # You can change the background color here
