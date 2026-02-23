@@ -59,9 +59,9 @@ website:
   
   site-url: https://hossamkhalilastro.github.io
   
-google-analytics:
-  tracking-id: "G-Q0QJ8173EM"
-  anonymize-ip: true
+  google-analytics:
+    tracking-id: "G-Q0QJ8173EM"
+    #anonymize-ip: true
 
 bibliography: references.bib  
 
