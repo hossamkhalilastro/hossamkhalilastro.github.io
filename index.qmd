@@ -19,7 +19,7 @@ about:
       target: _blank
 
       #ORCID
-    - text: "<img src='orcid.svg' alt='ADS' style='height: 1.5em; width: 1.5em; margin-top: -0.13em; vertical-align: middle; margin-right: 0.1em;'> <span style='color: #000000;'>ADS</span>"
+    - text: "<img src='orcid.svg' alt='ORCID' style='height: 1.5em; width: 1.5em; margin-top: -0.13em; vertical-align: middle; margin-right: 0.1em;'> <span style='color: #000000;'>ORCID</span>"
       href: https://orcid.org/0009-0005-0409-0562
       target: _blank
 
@@ -72,7 +72,7 @@ about:
 
 :::{#hero-heading}
 
-[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray and optical observations to study the large-scale structure. Currently, I'm interested in how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.]{style="font-size: 27px;"} 
+[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray and optical observations of large-scale structure to study how black hole feedback impacts the baryonic content of galaxy clusters and redistributes matter on megaparsec scales.]{style="font-size: 27px;"} 
 
 
 <br><br>
