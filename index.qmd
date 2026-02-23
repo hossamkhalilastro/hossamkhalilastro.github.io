@@ -72,7 +72,7 @@ about:
 
 :::{#hero-heading}
 
-[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray observations to study how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.]{style="font-size: 27px;"} 
+[<br><br><br>I'm an astrophysics PhD student at the University of Helsinki and part of the [GCG](https://gcg-helsinki.github.io) research group. I use X-ray and optical observations to study the large-scale structure. Currently, I'm interested in how feedback from black holes affects the baryonic content of galaxy clusters and redistributes the matter on megaparsec scales.]{style="font-size: 27px;"} 
 
 
 <br><br>
