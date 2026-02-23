@@ -19,14 +19,16 @@ title: "Research"
   figcaption {
     font-family: "Arial", sans-serif; /* A clean font for captions */
     color: #000000;                   /* A lighter gray to distinguish from main text */
-    font-size: 0.85em;                /* Makes the caption smaller than main text */
-    font-style: italic;               /* Adds an italic effect */
+    font-size: 0.8em;                /* Makes the caption smaller than main text */
+    font-style: normal;               /* Adds an italic effect */
     text-align: center;               /* Keeps the caption centered under the plot */
-    margin-top: 10px;                 /* Adds a little breathing room above the caption */
+    margin-top: 1px;                 /* Adds a little breathing room above the caption */
   }
 </style>
 
-My research focus is observational X-ray astronomy of galaxy clusters. I use data from space-based X-ray missions combined with ground-based optical data to probe the hot intergalactic plasma that is making up more than 90% of all matter in our Universe. 
+My research focus is observational X-ray astronomy of galaxy clusters. I use data from space-based X-ray missions combined with ground-based optical data to probe the hot intergalactic plasma that is making up more than 90% of all normal matter (baryons) in our Universe. 
+
+![eROSITA wavelet map of 2MRS 1075 galaxy group <span style="color: #325ad1; font-size:1em">(Khalil et al. in prep.)</span>.](figs/1075.jpg){#cluster fig-align="center" width="70%"}
 
 ---
 
