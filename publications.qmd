@@ -18,5 +18,10 @@ css: custom.css
 
 ::: {.pub-text}
 
-Eckert, D., Seppi, R., **Khalil, H.**, et al. 2025. "The impact of strong feedback on galaxy group scaling relations". arXiv e-prints, arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251204203E/abstract)\] \[[arXiv](https://arxiv.org/abs/2512.04203)\]
+Eckert, D., Seppi, R., **Khalil, H.**, et al. 2025. "The impact of strong feedback on galaxy group scaling relations". A&A, 701, A127. arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251204203E/abstract)\] \[[arXiv](https://arxiv.org/abs/2512.04203)\]
+:::
+
+::: {.pub-text}
+
+Seppi, R., Eckert, D., **Khalil, H.**, et al. 2026. "Bound or blown: The fate of hot gas in galaxy groups". arXiv e-prints, arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.153S/abstract)\] \[[arXiv](https://arxiv.org/abs/2604.24863)\]
 :::
