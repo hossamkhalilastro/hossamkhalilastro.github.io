@@ -25,21 +25,21 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
+    "text": "Khalil, H., Finoguenov, A., Eckert, D., Seppi, R., Temepl, E., Lovisari, L., & Gastaldello, F. 2026. “eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius”. A&A, accepted. [ADS] [arXiv]\n\n\nKhalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
   },
   {
     "objectID": "publications.html#first-author",
     "href": "publications.html#first-author",
     "title": "Publications",
     "section": "",
-    "text": "Khalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
+    "text": "Khalil, H., Finoguenov, A., Eckert, D., Seppi, R., Temepl, E., Lovisari, L., & Gastaldello, F. 2026. “eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius”. A&A, accepted. [ADS] [arXiv]\n\n\nKhalil, H., Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. “AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups”. A&A, 690, A212. [ADS] [arXiv]"
   },
   {
     "objectID": "publications.html#contributing-author",
     "href": "publications.html#contributing-author",
     "title": "Publications",
     "section": "Contributing author",
-    "text": "Contributing author\n\nEckert, D., Seppi, R., Khalil, H., et al. 2025. “The impact of strong feedback on galaxy group scaling relations”. A&A, 701, A127. arXiv:2512.04203 [ADS] [arXiv]\n\n\nSeppi, R., Eckert, D., Khalil, H., et al. 2026. “Bound or blown: The fate of hot gas in galaxy groups”. arXiv e-prints, arXiv:2512.04203 [ADS] [arXiv]"
+    "text": "Contributing author\n\nFinoguenov, A., Seppi, R., Eckert, Khalil, H., et al. 2026. “Large eROSITA X-ray sources as 2MRS galaxy groups”. A&A, accepted. [ADS] [arXiv]\n\n\nSeppi, R., Eckert, D., Khalil, H., et al. 2026. “Bound or blown: The fate of hot gas in galaxy groups”. arXiv e-prints, arXiv:2512.04203 [ADS] [arXiv]\n\n\nEckert, D., Seppi, R., Khalil, H., et al. 2025. “The impact of strong feedback on galaxy group scaling relations”. A&A, 701, A127. arXiv:2512.04203 [ADS] [arXiv]"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -145,5 +145,26 @@
     "title": "Teaching",
     "section": "Class 3",
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+  },
+  {
+    "objectID": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-accepted.",
+    "href": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-accepted.",
+    "title": "Research",
+    "section": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. Accepted.)",
+    "text": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. Accepted.)\nIn this project, we use a well-selected sample detected through 8-16 arcmin wavelets from the first public release of eROSITA-DE data (eRASS1) and identified with the optical 2MASS Redshift survey galaxy gorup catalogue (2MRS). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to \\(R_{\\mathrm{200c}}\\). \n\nGas fraction at \\(R_{\\rm 500c}\\)\n  We construct the \\(f_{\\mathrm{gas}-M_{\\mathrm{500c}}}\\) scaling relation taking into account the aperture covariance which is a result of the shared integration radius between the parameters. We compare our results with the observational literatgure and the predictions of modern hydrodynamical simulations. Our results favour the fiducial AGN feedback strength in FLAMINGO and rule out the strongest feedback variants. Additionally, our relation is in good agreement with the predictions of SIMBA and BAHAMAS, while we find EAGLE, FABLE, and TNG100 overpredict the gas content in galaxy groups in the lower mass regime.\n\n\n\n\n\n\n\n\n\nGas fraction at \\(R_{\\rm 200c}\\)\n\n\n\n\n\n\n\nSuppression of the matter power spectrum\nWe can use our resuls to infer the suppression of the total matter power spectrum implied by our \\((f_{\\rm gas}+f_{\\star})-M\\) relation, where we complemented our gas fractions with Leauthaud et al. (2012)’s stellar fractions."
+  },
+  {
+    "objectID": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-2026-accepted",
+    "href": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-2026-accepted",
+    "title": "Research",
+    "section": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. 2026, accepted)",
+    "text": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. 2026, accepted)\nIn this project, we use a well-selected sample detected through 8-16 arcmin wavelets from the first public release of eROSITA-DE data (eRASS1) and identified with the optical 2MASS Redshift survey galaxy gorup catalogue (2MRS). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to \\(R_{\\mathrm{200c}}\\). \n\nGas fraction at \\(R_{\\rm 500c}\\)\n  We construct the \\(f_{\\mathrm{gas}-M_{\\mathrm{500c}}}\\) scaling relation taking into account the aperture covariance which is a result of the shared integration radius between the parameters. We compare our results with the observational literatgure and the predictions of modern hydrodynamical simulations. Our results favour the fiducial AGN feedback strength in FLAMINGO and rule out the strongest feedback variants. Additionally, our relation is in good agreement with the predictions of SIMBA and BAHAMAS, while we find EAGLE, FABLE, and TNG100 overpredict the gas content in galaxy groups in the lower mass regime.\n\n\n\n\n\n\n\n\n\nGas fraction at \\(R_{\\rm 200c}\\)\n\n\n\n\n\n\n\nSuppression of the matter power spectrum\nWe can use our resuls to infer the suppression of the total matter power spectrum implied by our \\((f_{\\rm gas}+f_{\\star})-M\\) relation, where we complemented our gas fractions with Leauthaud et al. (2012)’s stellar fractions."
+  },
+  {
+    "objectID": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-2026",
+    "href": "Research.html#how-agn-feedback-modifies-the-baryonic-content-of-galaxy-groups-with-erosita-khalil-et-al.-2026",
+    "title": "Research",
+    "section": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. 2026)",
+    "text": "How AGN feedback modifies the baryonic content of galaxy groups with eROSITA (Khalil et al. 2026)\nIn this project, we use a well-selected sample detected through 8-16 arcmin wavelets from the first public release of eROSITA-DE data (eRASS1) and identified with the optical 2MASS Redshift survey galaxy gorup catalogue (2MRS). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to \\(R_{\\mathrm{200c}}\\). \n\nGas fraction at \\(R_{\\rm 500c}\\)\n  We construct the \\(f_{\\mathrm{gas}-M_{\\mathrm{500c}}}\\) scaling relation taking into account the aperture covariance which is a result of the shared integration radius between the parameters. We compare our results with the observational literatgure and the predictions of modern hydrodynamical simulations. Our results favour the fiducial AGN feedback strength in FLAMINGO and rule out the strongest feedback variants. Additionally, our relation is in good agreement with the predictions of SIMBA and BAHAMAS, while we find EAGLE, FABLE, and TNG100 overpredict the gas content in galaxy groups in the lower mass regime.\n\n\n\n\n\n\n\n\n\nGas fraction at \\(R_{\\rm 200c}\\)\n\n\n\n\n\n\n\nSuppression of the matter power spectrum\nWe can use our resuls to infer the suppression of the total matter power spectrum implied by our \\((f_{\\rm gas}+f_{\\star})-M\\) relation, where we complemented our gas fractions with Leauthaud et al. (2012)’s stellar fractions."
   }
 ]

@@ -33,7 +33,7 @@ My research focus is observational X-ray astronomy of galaxy clusters. I use dat
 
 ---
 
-## How AGN feedback modifies the baryonic content of galaxy groups with eROSITA <span style="color: #325ad1; font-size:1em">(Khalil et al. Subm.)</span>
+## How AGN feedback modifies the baryonic content of galaxy groups with eROSITA [(Khalil et al. 2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260817735K/abstract)
 In this project, we use a well-selected sample detected through 8-16 arcmin wavelets from the first public release of eROSITA-DE data ([eRASS1](https://erosita.mpe.mpg.de/dr1/)) and identified with the optical 2MASS Redshift survey galaxy gorup catalogue ([2MRS](https://arxiv.org/abs/1806.04469)). We convert the observed surface brightness into emission measure profiles, then deproject the latter to infer the hot gas mass up to $R_{\mathrm{200c}}$.
 <br>
 

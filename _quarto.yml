@@ -31,7 +31,7 @@ website:
       #- text: Group   
         #href: people.qmd
       - text: CV
-        href: HossamKhalil_CV_website.pdf
+        href: HossamKhalil_CV.pdf
 
     #right: 
       #- icon: github
