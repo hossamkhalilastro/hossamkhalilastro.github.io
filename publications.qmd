@@ -11,12 +11,12 @@ css: custom.css
 
 ::: {.pub-text}
 
-**Khalil, H.**, Finoguenov, A., Eckert, D., Seppi, R., Temepl, E., Lovisari, L., & Gastaldello, F. 2026. "eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius". A&A, accepted. \[[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260817735K/abstract)\] \[[arXiv](https://arxiv.org/abs/2608.17735)\]
+- **Khalil, H.**, Finoguenov, A., Eckert, D., Seppi, R., Temepl, E., Lovisari, L., & Gastaldello, F. 2026. "eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius". A&A, accepted. \[[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260817735K/abstract)\] \[[arXiv](https://arxiv.org/abs/2608.17735)\]
 :::
 
 ::: {.pub-text}
 
-**Khalil, H.**, Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. "AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups". A&A, 690, A212. \[[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.212K/abstract)\] \[[arXiv](https://arxiv.org/abs/2403.17061)\]
+- **Khalil, H.**, Finoguenov, A., Tempel, E., & Mamon, G. A. 2024. "AXES-2MRS: A new all-sky catalogue of extended X-ray galaxy groups". A&A, 690, A212. \[[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...690A.212K/abstract)\] \[[arXiv](https://arxiv.org/abs/2403.17061)\]
 :::
 
 
@@ -24,16 +24,16 @@ css: custom.css
 
 ::: {.pub-text}
 
-Finoguenov, A., Seppi, R., Eckert, **Khalil, H.**, et al. 2026. "Large eROSITA X-ray sources as 2MRS galaxy groups ". A&A, accepted. \[[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260817732F/abstract)\] \[[arXiv](https://arxiv.org/abs/2608.17732)\]
+- Finoguenov, A., Seppi, R., Eckert, **Khalil, H.**, et al. 2026. "Large eROSITA X-ray sources as 2MRS galaxy groups ". A&A, accepted. \[[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260817732F/abstract)\] \[[arXiv](https://arxiv.org/abs/2608.17732)\]
 :::
 
 ::: {.pub-text}
 
-Seppi, R., Eckert, D., **Khalil, H.**, et al. 2026. "Bound or blown: The fate of hot gas in galaxy groups". arXiv e-prints, arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.153S/abstract)\] \[[arXiv](https://arxiv.org/abs/2604.24863)\]
+- Seppi, R., Eckert, D., **Khalil, H.**, et al. 2026. "Bound or blown: The fate of hot gas in galaxy groups". arXiv e-prints, arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...710A.153S/abstract)\] \[[arXiv](https://arxiv.org/abs/2604.24863)\]
 :::
 
 ::: {.pub-text}
 
-Eckert, D., Seppi, R., **Khalil, H.**, et al. 2025. "The impact of strong feedback on galaxy group scaling relations". A&A, 701, A127. arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251204203E/abstract)\] \[[arXiv](https://arxiv.org/abs/2512.04203)\]
+- Eckert, D., Seppi, R., **Khalil, H.**, et al. 2025. "The impact of strong feedback on galaxy group scaling relations". A&A, 701, A127. arXiv:2512.04203 \[[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251204203E/abstract)\] \[[arXiv](https://arxiv.org/abs/2512.04203)\]
 :::
 

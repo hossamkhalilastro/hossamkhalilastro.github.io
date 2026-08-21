@@ -1,0 +1,12 @@
+open VS code
+quarto preview 
+edit the website pages from VS code
+Ctrl + S to see the preview changes
+
+To publish:
+	git add .
+	git commit -m "Update"
+	git push
+	quarto publish gh-pages
+	Yes
+
