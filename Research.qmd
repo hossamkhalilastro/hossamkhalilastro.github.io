@@ -29,7 +29,7 @@ page-layout: full
 
 My research focus is observational X-ray astronomy of galaxy clusters. I use data from space-based X-ray missions combined with ground-based optical data to probe the hot intergalactic plasma that is making up more than 90% of all normal matter (baryons) in our Universe. 
 
-![eROSITA wavelet map of 2MRS 1075 galaxy group <span style="color: #325ad1; font-size:1em">(Khalil et al. Subm.)</span>.](figs/1075.jpg){#cluster fig-align="center" width="70%"}
+![eROSITA wavelet map of 2MRS 1075 galaxy group <span style="color: #325ad1; font-size:1em">(Khalil et al. 2026)</span>.](figs/1075.jpg){#cluster fig-align="center" width="70%"}
 
 ---
 
